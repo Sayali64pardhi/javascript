@@ -58,4 +58,5 @@ const {name,fun}=data;
 fun();
 console.log(name);
 
+// console.log('=='); true value
 

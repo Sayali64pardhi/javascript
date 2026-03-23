@@ -42,3 +42,5 @@ function odd (arr) {
     }
 }
 odd(arr);
+
+// normal , arrow , anoumynous
